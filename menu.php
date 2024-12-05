@@ -2,7 +2,7 @@
 <nav class="navbar navbar-expand-lg navbar-dark bg-primary shadow-sm rounded">
     <div class="container-fluid">
         <!-- Logo como enlace hacia Google -->
-        <img src="img/qyp-removebg-preview.png" alt="Logo de la Inmobiliaria" class="img-fluid" style="width: 100px; height: auto;">
+        <img src="qyp-removebg-preview.png" alt="Logo de la Inmobiliaria" class="img-fluid" style="width: 100px; height: auto;">
 
 
         <div class="collapse navbar-collapse" id="navbarNav">
